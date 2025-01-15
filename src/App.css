@@ -1,0 +1,22 @@
+.app-container{
+  display: flex;
+  height: 800px;
+  
+}
+
+.content{
+  width: 100%;
+}
+.post-card{
+  width:18rem;
+  border: 2px solid rgb(147, 48, 72);
+  border-radius: 3px;
+  margin:20px 16px;
+}
+.tag{
+  margin:3px;
+}
+.create-post{
+  width: 80%;
+  margin: 10%;
+}
