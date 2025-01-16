@@ -20,7 +20,7 @@ const Post = ({ post }) => {
         </span>
 
         <span className="position-absolute top-0 start-0 translate-middle badge rounded-pill bg-success ">
-          {post.reactions}
+          {post.reactions.likes}
         </span>
       </div>
     </div>
